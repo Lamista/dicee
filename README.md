@@ -1,2 +1,5 @@
 # dicee
-With The Complete 2020 Web Development Bootcamp
+
+Refresh to play
+
+#### https://lamista.github.io/dicee/
